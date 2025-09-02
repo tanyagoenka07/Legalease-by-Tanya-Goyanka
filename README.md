@@ -1,1 +1,0 @@
-# Legalease-by-Tanya-Goyanka
