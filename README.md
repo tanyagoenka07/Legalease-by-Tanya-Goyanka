@@ -167,4 +167,4 @@ To find similar cases: "find similar cases" or "give me reference links"
 For specific questions: "who was the appellant in this matter?"
 
 👤 Author
-Yash Kamra
+Yash Kamra & Tanya Goyanka
